@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "DMSans";
+    src: local("DMSans"), url("./assets/DM_Sans/DMSans-VariableFont_opsz-wght.ttf") format("truetype");
+}
